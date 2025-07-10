@@ -1,0 +1,19 @@
+header{ text-align: center;}
+header p{color :aquamarine;background-color:rgba(195, 195, 96, 0.427);
+        margin-top: 0rem;
+}
+.margin{border-top: 2px solid yellow;
+}
+body{padding-left: 30%; padding-right: 20%;}
+.red{
+    color:red;
+        margin-bottom: -1rem;
+}
+.green{color:green;
+     text-decoration: underline;
+}
+.bordo{
+  border-left : 1px solid black;
+  padding-left: 1rem;
+
+}
